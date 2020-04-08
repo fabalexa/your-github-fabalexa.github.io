@@ -1,0 +1,223 @@
+.header {
+  background: black;
+  color: white;
+  width: 1000px;
+  margin-left: 150px;
+  margin-right: 200px;
+  display: flex;
+  height: 80px;
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  align-items: center;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.mainheader {
+  display: flex;
+  flex-direction: row;
+  padding-left: 150px;
+  padding-right: 30px;
+}
+
+.header div {
+  padding-left: 40px;
+}
+.firstparagraph {
+  display: flex;
+  flex-direction: row;
+  width: 800;
+  padding-left: 102px;
+  align-items: flex-start; 
+}
+
+}
+img {
+  margin-left: 500px;
+  position: relative;
+}
+
+h2 {
+  position: absolute;
+  bottom: 40px;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  font-size: 25px;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: bold;
+  
+}
+h1 {
+  position: absolute;
+  bottom: -90px;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  font-size: 50px;
+  font-family: 'Abril Fatface', cursive;
+  width: 50px;
+}
+main {
+  width: 420px;
+  margin: auto;
+  margin-top: 40px;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: black;
+  margin-left: 0px;
+}
+ul {
+  width: 420px;
+  margin: auto;
+  margin-top: 20px;
+  margin-right: 480px;
+  font-size: 20px;
+  list-style-type: square;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+.footertogether {
+  position: relative;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 420px;
+  padding-left: 190px;
+}
+.together {
+  background: #696969;
+  width: 220px;
+  height: auto;
+  margin: auto;
+  margin-top: 40px;
+  font-size: 50px;
+  padding: 30px;
+  padding-left: 50px;
+  font-weight: bold;
+  font-family: 'Abril Fatface', cursive;
+}
+button {
+  background: none;
+  font-size: 90px;
+  border: none;
+  position: absolute;
+  top: 20px;
+  margin-left: 55px;
+  color: white;
+  font-family: 'Abril Fatface', cursive; 
+}
+.secondparagraph {
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+.secondparagraphtext {
+  position: absolut;
+  padding-left: 0px;
+  margin-top: -330px;
+  width: 320px;
+}
+.head {
+  font-size: 25px;
+  font-weight: bold;
+  width: 600px;
+  margin: auto;
+  margin-top: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  margin-left: 580px;
+}
+.bitbigger {
+  font-size: 23px;
+  width: 380px;
+  margin: auto;
+  margin-top: 40px;
+  margin-left: 580px;
+  font-weight: bold;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.smallermain {
+  font-size: 15px;
+  width: 410px;
+  margin: auto;
+  margin-top: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 580px;
+}
+.thirdparagraph {
+  dispaly: flex;
+  flex-direction: row;
+  position: relative;
+  margin-bottom: 250px;
+}
+.thirdparagraphtext {
+  position: absolute;
+  top: -20px;
+}
+.secondlist {
+  margin-left: 580px;
+}
+
+.Ifind {
+  background: #696969;
+  width: 220px;
+  margin: auto;
+  margin-top: 40px;
+  margin-left: 240px;
+  font-size: 50px;
+  padding: 30px;
+  padding-left: 50px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+.secondfooter{
+  position: relative;
+  height: auto;
+  margin: auto;
+  
+}
+.secondbutton {
+  position: absolute;
+  top: -20px;
+  color: white;
+  left: 180px;
+  font-family: 'Abril Fatface', cursive; 
+}
+.headoflist {
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 18px;
+  width: 600px;
+  margin: auto;
+  margin-top: 5px;
+  margin-left: 580px;
+}
+.smallerlist {
+  size: 15px;
+}
+
+.WhenI {
+  background: #696969;
+  width: 220px;
+  margin: auto;
+  margin-top: 40px;
+  margin-left: 240px;
+  font-size: 50px;
+  padding: 30px;
+  padding-left: 50px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  height: 630px;
+}
+.thirdbutton {
+  position: absolute;
+  top: 1580px;
+  left: 190px;
+  color: white;
+  font-family: 'Abril Fatface', cursive; 
+}
+
+.thelast {
+  margin-top: -700px;
+}
